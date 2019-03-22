@@ -8,3 +8,7 @@ Maven QuickStart ( Backend Design)
                       [ OR ]
                       
  **E-commerce-BackEnd** *[ **Private Mode** ]*  = Repositories
+                                                                          
+                                            **Main FrontEnd Project Repositories Availabe on:**
+                   
+ **FrontEnd** *[ **Private Mode** ]*  = Repositories
