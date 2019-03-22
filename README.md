@@ -11,4 +11,4 @@ Maven QuickStart ( Backend Design)
                                                                           
                                             **Main FrontEnd Project Availabe on:**
                    
- **FrontEnd-Project ** *[ **Private Mode** ]*  = Repositories
+ **FrontEnd-Project** *[ **Private Mode** ]*  = Repositories
