@@ -2,13 +2,13 @@
 Maven QuickStart ( Backend Design)        
       **It's my Backend Project DAY By DAY Updates Repositories**
 
-                                           **Main BackEnd Project Repositories Availabe on:**
+                                           **Main BackEnd Project Availabe on:**
  **E-commerce BackEnd Design** = Folder
  
                       [ OR ]
                       
  **E-commerce-BackEnd** *[ **Private Mode** ]*  = Repositories
                                                                           
-                                            **Main FrontEnd Project Repositories Availabe on:**
+                                            **Main FrontEnd Project Availabe on:**
                    
- **FrontEnd** *[ **Private Mode** ]*  = Repositories
+ **FrontEnd-Project ** *[ **Private Mode** ]*  = Repositories
